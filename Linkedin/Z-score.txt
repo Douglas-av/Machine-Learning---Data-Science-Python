@@ -1,0 +1,26 @@
+Amostra = 100 alunos
+Devio Padrao = 2,7
+Media Amostra= 7,7
+Calcule = 6,2
+Z = (6,2 - 7,7)/ 2,7 = - 0,55
+
+Correlacionar o valor de Z com a "tabela de distribuição normal"
+
+0,5 corresponde a linha
+0,05 corresponde a coluna
+
+Ao cruzar linha e coluna obtemos  0,7088 ou seja 70,88% dos alunos
+tiraram nota Superior ou igual a 6,2.
+
+----------------x---------------
+
+Amostra = 60 pessoas
+Desvio Padrao = 300,2 Kcal
+Medio Amostra = 2531,5 Kcal
+Calcule = 2800
+Z = (2800 - 2531,5)/300,2 = 0,89
+
+linha = 0,8
+coluna = 0,09
+
+0,8133 ou seja 81,33% ingerem ao menos 2800 Kcal/dia
